@@ -104,7 +104,7 @@ workshop is only open to people from a particular institution.
 {% endif %}
 
 {% comment %}
-LOCATION
+NASA Ames
 
 This block displays the address and links to maps showing directions
 if the latitude and longitude of the workshop have been set.  You
